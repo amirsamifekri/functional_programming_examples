@@ -37,7 +37,7 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 ### C++20, with a LINQ-like container
 - [michael rizkalla](https://www.linkedin.com/in/michaelrizkalla) : [example 4, 5](https://github.com/MichaelRizkalla/LearningFP/tree/main/Cpp-FP/CalculateDiscountsOnOrders)
 ## Using Python:
-- [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-7](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
+- [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-7](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)يييييي
 - [Ramadan Ibrahem](https://www.linkedin.com/in/ramadanibrahem/): [repo Ex 2, 7](https://github.com/RamadanIbrahem98/functional-programming)
 - [Muhammad Motawe](https://www.linkedin.com/in/muhammadmotawe): [repo Ex 7](https://github.com/MuhammadMotawe/FunctionalProgramming)
 - [Hussein Srour](https://www.linkedin.com/in/hussein-sr): [repo Ex 4](https://github.com/Husseinfo/funcProg)
